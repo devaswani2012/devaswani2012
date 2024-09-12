@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a Data Science major at the University of Virginia.
+
+
 <!--
 **devaswani2012/devaswani2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
